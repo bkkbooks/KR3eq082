@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3eq082/v1
 canonical_location: https://kanripo.org/bkk/KR3eq082/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 止園醫話
   identifiers:
@@ -16,13 +16,13 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR3eq082_001.yaml, hash: 'sha256:3f1b3ea2d409c9bd825553306314b9cdb72062fb1e93ee7edfff4a94cd290a75'}
-  - {seq: 2, filename: KR3eq082_002.yaml, hash: 'sha256:11ef2102592be7c00d6db9ebb7a0f36aa5c31758be1323c82173d6a9e384145f'}
-  - {seq: 3, filename: KR3eq082_003.yaml, hash: 'sha256:3fc159be94dbf525a6e7f6eb2b7deaf4258d472930b8b9af87ac0d8801a44f4a'}
+  - {seq: 1, filename: KR3eq082_001.yaml, hash: 'sha256:f4ddb2627185dec351c3c39a07b3ea0381660889282c7d7e3468def8f90f0f0c'}
+  - {seq: 2, filename: KR3eq082_002.yaml, hash: 'sha256:df28b7fd2448b6952878e6d8e641ae284f7f6624b9d39e3f4ba34914057030fe'}
+  - {seq: 3, filename: KR3eq082_003.yaml, hash: 'sha256:cf0d3a83c78658e93fe5e90222a2e7a8db634063b5760b447266e86f20ee8830'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3eq082_001.markers.yaml, hash: 'sha256:c385797700c09a8df5416d3a01db4253c07cc2467a8f6f0b519b019a8cea4807'}
-  - {seq: 2, role: markers, filename: assets/KR3eq082_002.markers.yaml, hash: 'sha256:5b4b538369c63b16a5dbc589803f7c5c7e4104b22949e68f74e16eed54c8055c'}
-  - {seq: 3, role: markers, filename: assets/KR3eq082_003.markers.yaml, hash: 'sha256:2fa4544175e0499327135378c0ae59b91c5c72cbfbd9db23eb4dcfd877fead9b'}
+  - {seq: 1, role: markers, filename: assets/KR3eq082_001.markers.yaml, hash: 'sha256:f55e1e21b8f11d25832634420bf6dd84019140e808dd62db81d18778319c775f'}
+  - {seq: 2, role: markers, filename: assets/KR3eq082_002.markers.yaml, hash: 'sha256:4d90787cdca1c17229c695a4eeac999370b9ee1cd392f916ba6fb997d899fc9c'}
+  - {seq: 3, role: markers, filename: assets/KR3eq082_003.markers.yaml, hash: 'sha256:4172c8f196d5c402005c81a6920bbea973af756de7ad852950b2bf42c54da6c9'}
 table_of_contents:
 - ref:
     seq: 1
@@ -554,4 +554,7 @@ table_of_contents:
   label: 疝
   type: section
   level: 3
-hash: sha256:fb3caa94c0d31e42a2c64f3b77112431bdb4858346bc3e8a5afbdeab2643ba8d
+hash: sha256:f610e941f18725b9b78cbd785b076dfe5e92176d8c7ea3286c805e76977b98f6
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
